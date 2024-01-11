@@ -1,4 +1,3 @@
-# Problems_LeetCode
 README
 
 Проект: LeetCode Solutions
@@ -10,20 +9,13 @@ README
 Структура проекта
 
 .
-├── solutions           # Папка с файлами решений задач
-
-│   ├── problems.py
-
-│   
-
-├── tests               # Папка с автотестами
-
-│   ├── test_python.py
-
-│   ├── test_sql.py
-
-│   
-
-├── .gitignore          # Игнорируемые файлы и папки
-
-└── README.md           # Инструкции по использованию и описание проекта
+├── **solutions**           # Папка с файлами решений задач
+│   ├── **problem1.py**
+│   ├── **problem2.py**
+│   └── ...
+├── **tests**               # Папка с автотестами
+│   ├── **test_problem1.py**
+│   ├── **test_problem2.py**
+│   └── ...
+├── **.gitignore**          # Игнорируемые файлы и папки
+└── **README.md**           # Инструкции по использованию и описание проекта
